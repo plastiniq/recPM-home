@@ -1,0 +1,16 @@
+<svg id="recpm.svg" xmlns="http://www.w3.org/2000/svg" width="118.813" height="118.906" viewBox="0 0 118.813 118.906">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #21bd9e;
+      }
+
+      .cls-2 {
+        fill: #2fe1bd;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_749_copy_8" data-name="Ellipse 749 copy 8" class="cls-1" cx="45.688" cy="73.219" r="45.688"/>
+  <path id="Rectangle_870_copy_6" data-name="Rectangle 870 copy 6" class="cls-2" d="M130.489,118.307H61.6a6.126,6.126,0,0,1-6.126-6.126V43.288A6.126,6.126,0,0,1,61.6,37.162h68.891a6.126,6.126,0,0,1,6.127,6.126v68.893A6.127,6.127,0,0,1,130.489,118.307Z" transform="translate(-17.813 -37.156)"/>
+</svg>

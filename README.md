@@ -1,4 +1,4 @@
-# recpm-home
+# recPM-home
 
 ## Project setup
 ```

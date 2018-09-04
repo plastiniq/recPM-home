@@ -1,0 +1,35 @@
+[
+  {
+    "name": "RecPM Client",
+    "description": "An Incentivized, Ethereum-based project management platform that rewards teams for developing impressive projects.",
+    "votes": {"now": 142, "1": 100, "7": 97, "30": 90},
+    "language": "JavaScript",
+    "logo": "recpm.svg",
+    "id": 1,
+    "link": "https://jws325.github.io",
+    "grow": {"1": 0.08, "7": 0.25, "30": 0.63},
+    "created": "2017-09-14"
+  },
+  {
+    "name": "Modern JavaScript Framework",
+    "description": "Jet-driven JavaScript framework tuned to supersonic speed.",
+    "votes": {"now": 140, "7": 130, "30": 104},
+    "language": "JavaScript",
+    "logo": "modern.png",
+    "id": 2,
+    "link": "",
+    "grow": {"1": 0.06, "7": 0.23, "30": 0.9},
+    "created": "2017-01-03"
+  },
+  {
+    "name": "µDoctor",
+    "description": "Open-source platform for sharing experience between doctors.",
+    "votes": {"now": 159, "7": 128, "30": 130},
+    "language": "JavaScript",
+    "logo": "doctor.png",
+    "id": 3,
+    "link": "",
+    "grow": {"1": 0.05, "7": 0.2, "30": 0.5},
+    "created": "2016-09-13"
+  }
+]
